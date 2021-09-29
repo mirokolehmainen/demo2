@@ -11,8 +11,6 @@ font-size: 12px;
 color: green;
 }
 div {
-border-style: dotted;
- border-width: 2px;
- height: 100px;
-width: 100px;
+border: dotted;
+ width: 2px;
 }
