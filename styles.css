@@ -12,6 +12,10 @@ color: green;
 }
 div {
 border: 2px dotted;
-height: 100px;
-width: 100px;
+
+}
+
+.myDiv {
+width 10px;
+height 100px;
 }
